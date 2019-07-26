@@ -1,0 +1,4 @@
+webpack4.x下安装babel
+npm install -D babel-loader
+npm install -D babel-core
+npm install -D babel-preset-env
